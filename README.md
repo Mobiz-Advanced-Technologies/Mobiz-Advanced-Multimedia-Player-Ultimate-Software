@@ -5,4 +5,4 @@ MAMPUS or Mobiz Advanced Multimedia Player Ultimate Software is an ultimate tech
 
 ## I want to know more!
 
-As we said earlier, Mobiz(formerly called 'институт улучшения человека') is a company founded in 1947, our story start in an abandoned Soviet base shorly after the cold war against USA started. We play a major role in helping the USSR create advanced technologies from common household products to weaponries to be used by the USSR Peoples Army. The collapse of the USSR gave us the opportunity to focus more on advanced softwares. Therefore giving birth to the Modern Day Mobiz we know and love today.
+Mobiz(formerly called 'институт улучшения человека') is a company founded in 1947, our story start in an abandoned Soviet base shorly after the cold war against USA started. We play a major role in helping the USSR create advanced technologies from common household products to weaponries to be used by the USSR Peoples Army. The collapse of the USSR gave us the opportunity to focus more on advanced softwares. Therefore giving birth to the Modern Day Mobiz we know and love today.
